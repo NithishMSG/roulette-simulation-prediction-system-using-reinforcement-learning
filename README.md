@@ -179,11 +179,11 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ---
 
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/hashprasheeth">PRASHETH</a>
+  Made with ❤️ by <a href=(https://github.com/NithishMSG)</a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/hashprasheeth">GitHub</a> •
-  <a href="https://instagram.com/prasheethh">Instagram</a> •
-  <a href="https://linkedin.com/in/prasheth-p">LinkedIn</a>
+  <a href=https://github.com/NithishMSG</a> •
+  <a href=https://www.instagram.com/nithish_msg/</a> •
+  <a href=www.linkedin.com/in/nithishmsg</a>
 </p> 
