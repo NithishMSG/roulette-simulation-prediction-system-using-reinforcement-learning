@@ -179,20 +179,22 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ---
 <div align="center">
 
-  <a href="https://github.com/NithishMSG" target="_blank" style="text-decoration:none; font-weight:bold; font-size:18px;">
+  <!-- Made by + GitHub name -->
+  <span style="font-size:16px; margin-right:6px;">Made by</span>
+  <a href="https://github.com/NithishMSG" target="_blank" 
+     style="text-decoration:none; font-weight:bold; font-size:18px;">
     NithishMSG
   </a>
 
   <br><br>
 
+  <!-- Social icons (closer spacing) -->
   <a href="https://www.instagram.com/nithish_msg" target="_blank">
-    <img src="https://img.icons8.com/color/48/instagram-new.png" width="32"/>
+    <img src="https://img.icons8.com/color/48/instagram-new.png" width="26" alt="Instagram"/>
   </a>
 
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.linkedin.com/in/nithishmsg" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="32"/>
+  <a href="https://www.linkedin.com/in/nithishmsg" target="_blank" style="margin-left:6px;">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="26" alt="LinkedIn"/>
   </a>
 
 </div>
