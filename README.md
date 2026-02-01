@@ -183,7 +183,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 </p>
 
 <p align="center">
-  <a href=https://github.com/NithishMSG</a> •
-  <a href=https://www.instagram.com/nithish_msg/</a> •
-  <a href=www.linkedin.com/in/nithishmsg</a>
+  <a href="https://github.com/NithishMSG"</a> •
+  <a href="https://www.instagram.com/nithish_msg"/</a> •
+  <a href="www.linkedin.com/in/nithishmsg"</a>
 </p> 
