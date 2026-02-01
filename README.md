@@ -177,13 +177,23 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
+<div align="center">
 
-<p align="center">
-  Made with ❤️ by <a href=(https://github.com/NithishMSG)</a>
-</p>
+  <a href="https://github.com/NithishMSG" target="_blank" style="text-decoration:none; font-weight:bold; font-size:18px;">
+    NithishMSG
+  </a>
 
-<p align="center">
-  <a href="https://github.com/NithishMSG"</a> •
-  <a href="https://www.instagram.com/nithish_msg"/</a> •
-  <a href="www.linkedin.com/in/nithishmsg"</a>
-</p> 
+  <br><br>
+
+  <a href="https://www.instagram.com/nithish_msg" target="_blank">
+    <img src="https://img.icons8.com/color/48/instagram-new.png" width="32"/>
+  </a>
+
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.linkedin.com/in/nithishmsg" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="32"/>
+  </a>
+
+</div>
+ 
